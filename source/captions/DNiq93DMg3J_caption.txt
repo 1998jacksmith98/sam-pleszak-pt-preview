@@ -1,0 +1,8 @@
+uploader=Sam Pleszak
+upload_date=20250819
+timestamp=1755617547
+duration=None
+width=None height=None
+entries=3
+
+Just an athlete approaching 30

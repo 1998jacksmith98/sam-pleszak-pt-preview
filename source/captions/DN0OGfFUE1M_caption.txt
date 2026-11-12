@@ -1,0 +1,8 @@
+uploader=Sam Pleszak
+upload_date=20250826
+timestamp=1756206393
+duration=None
+width=None height=None
+entries=6
+
+Summa ‘25

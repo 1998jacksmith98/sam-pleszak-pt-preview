@@ -1,0 +1,119 @@
+# Sam Pleszak / Pleszak Physical Health — photo shot list
+# Collected 12 Nov 2026, anonymous only (no Instagram login). Instagram @sam_pleszak.
+# Instagram stills: public media/?size=l, full frame as posted, NOT square crops.
+# Official portrait: original JPEG from pleszakhealth.co.uk (higher-res than the same photo on Instagram).
+# Dimensions are of the file saved here. JPEGs are exact copies (not re-encoded).
+#
+# TEXT OVERLAY KEY
+#   NONE        = no text added by Instagram or an editing app
+#   SCENE TEXT  = only real-world text in the photo (kit logos, scoreboard, street signs)
+#   OVERLAY     = text added on top of the photo  <-- Jack's rule: avoid where possible
+#
+# All selected stills are NONE or SCENE TEXT. Shirtless holiday shots, a shirtless mirror
+# selfie, the NYC wedding carousel, and Instagram overlay/reel-cover stills were skipped.
+
+photos/hero-01.jpg  2823x3764  TEXT: NONE  (same file as about-me-01.jpg)
+  Source: https://pleszakhealth.co.uk/  — WordPress media “IMG_7444” (alt: portrait of Sam from Pleszak Physical Health), original upload https://pleszakhealth.co.uk/wp-content/uploads/2026/05/IMG_7444.jpeg
+  Also posted on Instagram as https://www.instagram.com/p/DN0OGfFUE1M/ slide 1 (26 Aug 2025, “Summa ‘25”), but that copy is only 1080×1350; this is the higher-res original.
+  What: Professional head-and-shoulders, black quarter-zip over a white tee, smiling, weathered timber fence behind. No text.
+  Suggested use: HERO and/or about-me. Best portrait in the pack, and the right tone for a mental-health / ward-facing business site.
+
+photos/about-me-01.jpg  2823x3764  TEXT: NONE
+  Source: identical file to hero-01.jpg (see above). Included twice only so both slots are filled.
+
+photos/training-01.jpg  1080x1440  3:4  TEXT: SCENE TEXT (small gym TV / kit logos)
+  Source: https://www.instagram.com/p/DcyDtYAiLgB/  slide 4 (child DcyDnI7Ih_2), 2 Sep 2026 — caption “🏋️‍♂️ ➡️ 🏌️‍♂️ 🔁”
+  What: Sam on an assault / air bike in a commercial gym, mint t-shirt, looking toward camera.
+  Suggested use: Training / gym floor. Clean, good resolution.
+
+photos/training-02.jpg  720x960  3:4  TEXT: NONE (dumbbells in background only)
+  Source: https://www.instagram.com/p/DcyDtYAiLgB/  slide 5 (child DcyDrtTCD2G), 2 Sep 2026
+  What: Split-squat / lunge jump in the same gym, mint kit, racks of dumbbells behind.
+  Suggested use: Training / action. As-posted width is 720 — slightly lower res than training-01.
+
+photos/training-03.jpg  720x960  3:4  TEXT: SCENE TEXT (plate branding)
+  Source: https://www.instagram.com/p/DcyDtYAiLgB/  slide 3 (child DcyDqpeiFpK), 2 Sep 2026
+  What: Rear-foot-elevated split squat in a rack, barbell on his back, mint kit.
+  Suggested use: Training. 720px wide as posted.
+
+photos/training-04.jpg  720x960  3:4  TEXT: NONE
+  Source: https://www.instagram.com/p/DcyDtYAiLgB/  slide 1 (child DcyDpF5CETk), 2 Sep 2026
+  What: Romanian deadlift / hinge, light-blue long sleeve, commercial gym floor.
+  Suggested use: Training. 720px wide as posted. Slide 2 is a near-duplicate and was not used.
+
+photos/training-05.jpg  1080x1350  4:5  TEXT: SCENE TEXT (gym mural typography, “WARRIOR” shirt on the other PT)
+  Source: https://www.instagram.com/p/CpfqOzZsMUe/  slide 2 (child CpfqOv1Mi3H), 7 Mar 2023 — “Throw back to me trying something new with one of the best PT’s I know @j_fitness14”
+  What: Sam on a decline bench, mid-exercise; @j_fitness14 crouched beside him coaching. Boutique gym.
+  Suggested use: Training session. Note: Sam is the person being trained here, not the coach.
+
+photos/training-06.jpg  1080x1350  4:5  TEXT: SCENE TEXT (machine branding, mural)
+  Source: https://www.instagram.com/p/CpfqOzZsMUe/  slide 3 (child CpfqOv1MhGq), 7 Mar 2023
+  What: Same session, Sam smiling on the decline bench, the other PT standing to the side.
+  Suggested use: Training / personality.
+
+photos/action-01.jpg  1080x1440  3:4  TEXT: NONE
+  Source: https://www.instagram.com/p/DcyDtYAiLgB/  slide 6 (child DcyDnOhoUzh), 2 Sep 2026
+  What: Full-length golf swing outdoors, red polo and navy trousers, trees behind.
+  Suggested use: Action / lifestyle / “athlete” (he is a former professional basketball player; golf is a recurring theme on the grid).
+
+photos/action-02.jpg  1080x1440  3:4  TEXT: NONE
+  Source: https://www.instagram.com/p/DWokKGtCJCx/  slide 1 (child DWokHeliNwt), 2 Apr 2026 — “Little bit of this, little bit of that”
+  What: Golf swing, autumn trees, navy gilet over a light long sleeve.
+  Suggested use: Action / lifestyle. Strong, clean photo.
+
+photos/action-03.jpg  1080x1440  3:4  TEXT: NONE
+  Source: https://www.instagram.com/p/DWokKGtCJCx/  slide 3 (child DWokH8mCO-Y), 2 Apr 2026
+  What: Follow-through / looking down after a shot, black kit and cap, pale sky.
+  Suggested use: Action. File is small (plain sky) but the frame is the original 1080×1440 still, not a video grab. The two basketball clips in this carousel were video covers (663×884, one with a scoreboard overlay) and were not used.
+
+photos/action-04.jpg  1080x1349  TEXT: NONE
+  Source: https://www.instagram.com/p/DNiq93DMg3J/  slide 2 (child DNiq9vjM4Xn), 19 Aug 2025 — “Just an athlete approaching 30”
+  What: Putting on a parkland golf course, mid-shot, grey tee and shorts.
+  Suggested use: Action / lifestyle.
+
+photos/action-05.jpg  1080x1349  TEXT: NONE
+  Source: https://www.instagram.com/p/DNiq93DMg3J/  slide 1 (child DNiq9vjs-gu), 19 Aug 2025
+  What: Walking a fairway, back to camera, open countryside.
+  Suggested use: Lifestyle. Face not visible.
+
+photos/lifestyle-01.jpg  1080x1079  nearly square (original is this shape)  TEXT: NONE
+  Source: https://www.instagram.com/p/DTQqCc7DD70/  slide 1 (child DTQqCWMjBu0), 8 Jan 2026 — “Game night in the city. 🏀🏙️ #londonlions”
+  What: Sam and a friend sitting in the stands at a London Lions basketball game.
+  Suggested use: Lifestyle / basketball background. Another person is clearly identifiable — check before large use.
+
+photos/lifestyle-02.jpg  1080x1080  square (original is square)  TEXT: SCENE TEXT (arena screens, “pepsi” courtside)
+  Source: https://www.instagram.com/p/DTQqCc7DD70/  slide 2 (child DTQqCWMjGCQ), 8 Jan 2026
+  What: Wide shot of the arena during the game, no close faces.
+  Suggested use: Lifestyle / basketball. Third-party arena branding visible.
+
+photos/lifestyle-03.jpg  1080x1350  4:5  TEXT: SCENE TEXT (club brand “R9”)
+  Source: https://www.instagram.com/p/DN0OGfFUE1M/  slide 3 (child DN0OGSM0AgL), 26 Aug 2025
+  What: Golf bag and clubs in a hallway.
+  Suggested use: Lifestyle detail. Optional.
+
+photos/lifestyle-04.jpg  1080x1350  4:5  TEXT: NONE
+  Source: https://www.instagram.com/p/DN0OGfFUE1M/  slide 2 (child DN0OGSLUASV), 26 Aug 2025
+  What: Overhead of a golf shot — ball, club shadow, trainers on the grass.
+  Suggested use: Lifestyle / graphic crop. Nice and clean.
+
+# ----------------------------------------------------------------------------------------
+# NOT INCLUDED (and why)
+#   DcyDoTXIqQy          5-year/gym carousel, outdoor selfie — appears shirtless/very revealing
+#   DN0OGSL0Ndk          “Summa ‘25” shirtless mirror selfie
+#   DN0OGSL0JWY          pint on a fence — lifestyle, but alcohol + brand can
+#   DN0OGSL0LWH          cat photo, not useful for the site
+#   DNiq9visMo7          indoor putting mat with printed “FAST” — minor, and we have better golf
+#   DcejU5niLyp (all 6)  NYC brother’s wedding + Times Square — guests, couple, not business-site material
+#   DZCsco0oU4Y, DZCsdQcI58x, DZCsdTyiKu2  summer swim/boat — shirtless
+#   DZCscMrCKR7, DZCscs9iJwU               lower-res video-shaped frames (720×722)
+#   DWokHhPCOw0, DWokH8miLUG               basketball video covers, 663×884, one has a scoreboard overlay
+#   DTQp8PsDAj9          720×720 court still, weaker than the other Lions shots
+#   Website stock        Unsplash / UTC stock of joggers, yoga, bootcamps, families — not Sam, not used
+#   Reel covers          all three reels have either an opening text card, heavy typography, or a TikTok watermark
+#
+# GAPS
+#   - No still of Sam coaching a client. His published work is in psychiatric wards; no service-user
+#     photos were posted (correctly). The gym stills are his own training, or him being trained.
+#   - No before/after comparisons → no comparisons/ folder.
+#   - No named commercial gym / studio interior of “his” facility — he goes to the wards.
+#   - All 11 public Instagram posts were reached (the whole grid).

@@ -1,0 +1,8 @@
+uploader=Sam Pleszak
+upload_date=20260402
+timestamp=1775142656
+duration=None
+width=None height=None
+entries=4
+
+Little bit of this, little bit of that

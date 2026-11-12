@@ -1,0 +1,10 @@
+Pleszak Physical Health — fonts
+Taken from the live site theme at https://pleszakhealth.co.uk/ (12 Nov 2026), not guessed from a photo.
+
+  Headings:  Behind The Nineties
+             (WordPress preset --wp--preset--font-family--heading)
+  Body:      Montserrat
+             (WordPress preset --wp--preset--font-family--base)
+  Mono:      JetBrains Mono (theme fallback stack; unlikely to be needed)
+
+Confirm licensing with Sam / Resknow (who built the current site) before using “Behind The Nineties” on a new build. Montserrat is widely available (Google Fonts) but still needs a proper licence check for the project.

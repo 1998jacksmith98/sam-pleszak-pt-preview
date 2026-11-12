@@ -1,0 +1,8 @@
+uploader=Sam Pleszak
+upload_date=20260601
+timestamp=1780314415
+duration=None
+width=None height=None
+entries=5
+
+Starting summer like…

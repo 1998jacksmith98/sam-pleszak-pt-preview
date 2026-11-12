@@ -1,0 +1,8 @@
+uploader=Sam Pleszak
+upload_date=20220913
+timestamp=1663090453
+duration=None
+width=720 height=1278
+entries=0
+
+Goal: rack it for reps

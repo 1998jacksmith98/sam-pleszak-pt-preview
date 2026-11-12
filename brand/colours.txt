@@ -1,0 +1,22 @@
+Pleszak Physical Health — brand colours
+Collected 12 Nov 2026 from the official logo SVG and the live site theme at https://pleszakhealth.co.uk/
+These are from his current brand files / WordPress palette, not guesses.
+
+FROM THE OFFICIAL LOGO (PPH-Logo-Colour.svg)
+  Charcoal (wordmark / monogram):  #343531    rgb(52, 53, 49)
+  Sage (H / leaf / “HEALTH”):      #CCD0C1    rgb(204, 208, 193)
+  White:                           #FFFFFF    rgb(255, 255, 255)
+
+FROM THE LIVE SITE THEME (WordPress presets on pleszakhealth.co.uk)
+  Primary (matches logo sage):     #CCD0C1    rgb(204, 208, 193)
+  Contrast / body text:            #1F2527    rgb(31, 37, 39)
+  Base background (warm off-white):#FBF7F3    rgb(251, 247, 243)
+  Secondary (sand / blush):        #E6D0C4    rgb(230, 208, 196)
+  Tertiary (taupe):                #C3ADA1    rgb(195, 173, 161)
+  Tertiary contrast:               #E8E1D1    rgb(232, 225, 209)
+  Link blue (used for links):      #0C2479    rgb(12, 36, 121)
+  Gray-900:                        #262724    rgb(38, 39, 36)
+  Gray-800:                        #43443F    rgb(67, 68, 63)
+  Highlight (theme, yellow):       #EAB308    rgb(234, 179, 8)
+
+Suggested pair if rebuilding: sage #CCD0C1 with charcoal #343531 or contrast #1F2527, on warm off-white #FBF7F3.
